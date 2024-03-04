@@ -1,7 +1,7 @@
 ---
 name: Create an Issue
 about: Used to create an issue or bug report for Gen3
-title: ''
+title: 'BUG: Short description of the bug'
 labels: ''
 assignees: ''
 

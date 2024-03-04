@@ -1,7 +1,7 @@
 ---
 name: Create a Feature Request
 about: Suggest an idea for Gen3
-title: ''
+title: 'Feature Request: short description of your feature request'
 labels: ''
 assignees: ''
 

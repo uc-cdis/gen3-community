@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+DO NOT post any Personally Identifiable Information (PII) in a GitHub Issue.  This includes IP address and hostnames.
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 

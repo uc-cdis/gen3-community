@@ -10,6 +10,7 @@ assignees: ''
 <!--
 Thanks for taking the time to create an issue. Please read the following before posting:
 
+- DO NOT post any Personally Identifiable Information (PII) in a GitHub Issue.  This includes IP address and hostnames.
 - Questions should be asked on Slack.
 - For bugs, specify impacted services (if known), versions, errors, and explain in detail what you are trying to do.  Is the error reproducible?
 

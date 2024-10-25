@@ -2,9 +2,10 @@
 
 <img src="images/gen3-blue-dark.png" width=250px>
 
-This Gen3 repository includes content related to Gen3 Working groups.  Visit the `Working Groups` directory for more information.
+This Gen3 repository includes content related to Gen3 Working groups.  
 
-This repository can also be used if you have an issue or feature request for Gen3, but are not sure which other repository is the correct location.
+
+It can also be used if you have an issue or feature request for Gen3, but are not sure which other repository is the correct location.
 
 Create a bug report or a feature request by clicking on the "Issues" tab in the top navigation menu. Then, click "New Issue".
 

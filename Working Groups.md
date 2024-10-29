@@ -1,6 +1,6 @@
-# gen3-community
+# Gen3 Working Groups
 
-This Gen3 repository includes content related to Gen3 Working groups.  
+This Gen3 repository includes content related to Gen3 Working groups. Individual working groups are listed below along with their mission, meeting schedule, and how to participate.
 
 ## CSOC Working Group
 
@@ -10,7 +10,7 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 Contact support@gen3.org for an invite to the slack channel and monthly zoom meeting. Agenda and minutes can be found in the Gen3 Community GitHub Repo.
 
-** Kickoff Meeting **
+**Kickoff Meeting**
 
 December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zoom.us/j/92866299142?pwd=XfddZb7PAK9eMaX9gX3qSBpljJ5jYL.1)
 
@@ -20,3 +20,7 @@ December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zo
 * Mission of group
 * Discuss how to work together on a CSOC dashboard and other goals
 * Open discussion
+
+**How to Participate**
+
+These meetings are open to anyone in the Gen3 community.  Reach out to fitz@uchicago.edu or just join the meeting!

@@ -4,7 +4,7 @@
 
 This repository contains content related to the Gen3 Community.  It includes information on our community working groups and it can also be used for reporting issues or feature requests if you are not sure which Gen3 repo is appropriate.  
 
-For more information on Gen3 working groups please visit the the `Working Groups` directory.
+For more information on Gen3 working groups please visit `working Groups.md` file.
 
 To create a bug report or a feature request, Click on the "Issues" tab in the top navigation menu. Then, click "New Issue".
 

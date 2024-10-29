@@ -2,7 +2,7 @@
 
 <img src="images/gen3-blue-dark.png" width=250px>
 
-This repository contains content related to the Gen3 Community.  It includes content related to our community working groups and it can also be used for reporting issues or feature requests if you are not sure which Gen3 repo is appropriate.  
+This repository contains content related to the Gen3 Community.  It includes information on our community working groups and it can also be used for reporting issues or feature requests if you are not sure which Gen3 repo is appropriate.  
 
 For more information on Gen3 working groups please visit the the `Working Groups` directory.
 

@@ -23,4 +23,4 @@ December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zo
 
 **How to Participate**
 
-These meetings are open to anyone in the Gen3 community.  Reach out to fitz@uchicago.edu or just join the meeting!
+These meetings are open to anyone in the Gen3 community.  Reach out to support@gen3.org or just join the meeting!

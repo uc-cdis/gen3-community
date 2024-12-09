@@ -8,9 +8,13 @@ The Gen3 CSOC Working group will focus on topics and Gen3 improvements to benefi
 
 Projects completed by the working group will be merged into the Gen3 source code and made available to the community. As the Gen3 maintainer, CTDS will manage the working group, contribute code, and provide guidance to others on contributing to the Gen3 source code. Other participants will help provide requirements and also contribute code to Gen3.
 
-Contact support@gen3.org for an invite to the slack channel and monthly zoom meeting. Agenda and minutes can be found in the Gen3 Community GitHub Repo.
+### **How to Participate**
 
-**Kickoff Meeting**
+These meetings are open to anyone in the Gen3 community. Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
+
+Agenda and minutes can be found in the Gen3 Community GitHub Repo.
+
+### `2024-Dec-9/10` **Kickoff Meeting: Dec 9/10, 2024**
 
 December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zoom.us/j/92866299142?pwd=XfddZb7PAK9eMaX9gX3qSBpljJ5jYL.1)
 
@@ -20,7 +24,3 @@ December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zo
 * Mission of group
 * Discuss how to work together on a CSOC dashboard and other goals
 * Open discussion
-
-**How to Participate**
-
-These meetings are open to anyone in the Gen3 community.  Reach out to support@gen3.org or just join the meeting!

@@ -2,7 +2,7 @@
 
 This Gen3 repository includes content related to Gen3 Working groups. Individual working groups are listed below along with their mission, meeting schedule, and how to participate.
 
-## CSOC Working Group
+## CSOC Working Group ([link to group folder](https://github.com/uc-cdis/gen3-community/tree/master/CSOC_Working_Group_items)
 
 The Gen3 CSOC Working group will focus on topics and Gen3 improvements to benefit those organizations managing multiple Gen3 systems. A commons services operations center (CSOC) is used by organizations that run more than one Gen3 system. A CSOC allows a team of engineering and security staff to set up, configure, secure, operate, and monitor two or more data commons or data meshes. Part of the working group focus will be on the development of dashboards and tools that will enable an administrator to configure, launch, and monitor a data commons or mesh. We will also discuss and work on other improvements and topics of interest to multi-Gen3 organizations.
 

@@ -23,4 +23,4 @@ December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zo
 
 * [Minutes](20241209-CSOC_WG_minutes.md)  
 * [Slides](20241209-CSOC_WG_slides.pdf)
-* Recording of the mtg: [on YouTube](https://www.youtube.com/watch?v=Rd4qjhm3oKI)
+* [Recording of the mtg (YouTube)](https://www.youtube.com/watch?v=Rd4qjhm3oKI)

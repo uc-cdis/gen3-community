@@ -1,15 +1,11 @@
-
-
-
-
 # Dec 9, 2024 | [Gen3 CSOC Working Group Kickoff](https://www.google.com/calendar/event?eid=NnQ0Nml2bzdwZnY4Z2NhZWJlbjZyY2J0cG8gc212Z2FyY2lhQHVjaGljYWdvLmVkdQ)
 
 Attendees: Amy Burns (IU), Uwe Winter (Aus BioCommons),  Alan Walsh (IU),  Peter Vassilatos (CTDS), Sara Volk de Garcia (CTDS), Clair Rye (NeSI),  Jawad Qureshi (CTDS),  Plamen Martinov (OCC) Michael Fitzsimons (CTDS), Ruslan Forostianov (SC4Bio), Colin Griffin (KrumWare), Clint Malson (CTDS), Kyle Ellrott (OHSU), Brian Furner (D4CG), Luca Graglia (D4CG), Guerdon Mukama (Aus BioCommons), Hunter Adams (KrumWare)
 
 ## Relevant meeting links   
 
-* Agenda: [https://github.com/uc-cdis/gen3-community/blob/master/Working%20Groups.md\#2024-dec-910-kickoff-meeting-dec-910-2024](https://github.com/uc-cdis/gen3-community/blob/master/Working%20Groups.md#2024-dec-910-kickoff-meeting-dec-910-2024)  
-* Slides: 
+* Agenda: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md)  
+* Slides: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/20241209-CSOC_WG_slides.pdf](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/20241209-CSOC_WG_slides.pdf)
 * Recording of the mtg: [on YouTube](https://www.youtube.com/watch?v=Rd4qjhm3oKI)
 
 ## Mtg Minutes

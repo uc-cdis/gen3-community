@@ -6,7 +6,19 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 ### **How to Participate**
 
-These meetings are open to anyone in the Gen3 community. Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
+These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
+
+### `2025-January-29/30`
+
+January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
+
+**Agenda**
+
+* Presentation by Uwe and Guerdon on deployment practices used by Australian BioCommons
+* TBD
+* AOB
+
+
 
 ### `2024-Dec-9/10` **Kickoff Meeting: Dec 9/10, 2024**
 

@@ -20,4 +20,4 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
-Agenda and minutes can be found in the CSOC Working Group folder.
+Agenda and minutes can be found in the [CSOC Working Group folder](https://github.com/uc-cdis/gen3-community/tree/master/CSOC_Working_Group_items).

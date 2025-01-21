@@ -14,9 +14,10 @@ January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.
 
 **Agenda**
 
-* Presentation by Uwe and Guerdon on deployment practices used by Australian BioCommons
-* TBD
-* AOB
+* Presentation by Australian BioCommons on deployment
+* Update from CTDS on CSOC deployment
+* Next Steps
+
 
 
 

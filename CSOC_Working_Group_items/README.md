@@ -8,6 +8,19 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
+### `2025-February-26/27`
+February 26, 3-3:30pm CT (February 27, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
+
+**Agenda**
+
+* NOTE - this is an abbreviated meeting and will only be 30 minutes
+* Update from CTDS on CSOC deployment
+* Update from Australian BioCommons on open-sourcing deployment repos
+* Open Discussion
+
+
+
+
 ### `2025-January-29/30`
 
 January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
@@ -18,7 +31,11 @@ January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.
 * Update from CTDS on CSOC deployment
 * Next Steps
 
+### Relevant meeting links   
 
+* [Minutes]( )  
+* [Slides](20250129-CSOC WG_slides.pdf)
+* [Recording of the mtg (YouTube)](https://youtu.be/yF-T97MggUQ)
 
 
 ### `2024-Dec-9/10` **Kickoff Meeting: Dec 9/10, 2024**
@@ -32,7 +49,7 @@ December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zo
 * Discuss how to work together on a CSOC dashboard and other goals
 * Open discussion
 
-## Relevant meeting links   
+### Relevant meeting links   
 
 * [Minutes](20241209-CSOC_WG_minutes.md)  
 * [Slides](20241209-CSOC_WG_slides.pdf)

@@ -33,7 +33,7 @@ January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.
 
 ### Relevant meeting links   
 
-* [Minutes]( )  
+* [Minutes](20250129-CSOC_WG_minutes.md)  
 * [Slides](20250129-CSOC WG_slides.pdf)
 * [Recording of the mtg (YouTube)](https://youtu.be/yF-T97MggUQ)
 

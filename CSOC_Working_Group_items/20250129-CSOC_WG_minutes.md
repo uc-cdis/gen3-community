@@ -77,5 +77,5 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 ### Useful Links
 
-* Agendas and minutes can be found in the [Gen3 Community GitHub Repo CSOC Working Group folder](CSOC_Working_Group_items).   
+* Agendas and minutes can be found in the [Gen3 Community GitHub Repo CSOC Working Group folder](/CSOC_Working_Group_items).   
 * Slack channel: [\#gen3\_working\_group\_csoc\_ext](https://gen3friends.slack.com/archives/C082FLTBYMA) - email Gen3 support to request to be added to the channel ([support@gen3.org](mailto:support@gen3.org))

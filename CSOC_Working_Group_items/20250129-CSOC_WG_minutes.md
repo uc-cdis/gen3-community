@@ -5,9 +5,9 @@ Aus BioCommons: Uwe Winter, Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Bri
 
 ## Relevant meeting links   
 
-* Agenda: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC\_Working\_Group\_items/README.md\#2025-january-2930](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md#2025-january-2930)   
-* Slides: [https://github.com/uc-cdis/gen3-community/blob/CSOC-WG-update-022025/CSOC_Working_Group_items/20250129-CSOC%20WG_slides.pdf](https://github.com/uc-cdis/gen3-community/blob/CSOC-WG-update-022025/CSOC_Working_Group_items/20250129-CSOC%20WG_slides.pdf)
-* Recording of the mtg: [on YouTube](https://youtu.be/Rd4qjhm3oKI?si=KsbFf7V5r2wy4s3p)
+* [Agenda](README.md#2025-january-2930)   
+* [Slides](20250129-CSOC_WG_slides.pdf)
+* [Recording of the mtg (YouTube)](https://youtu.be/yF-T97MggUQ)
 
 ## Mtg Minutes
 
@@ -35,7 +35,7 @@ Aus BioCommons: Uwe Winter, Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Bri
     * No need for mgmt vm  
     * Integrate CI/CD to reduce errors  
     * Simpler
- 
+
  (Slide 14 in slide deck is a great summary of comparison of Gen3 Deployment with AWS CDK Pipelines to Cloud Automation)
 
 * Takeaways: Reproducible. Able to control versions. Easier to maintain.   
@@ -61,11 +61,11 @@ Aus BioCommons: Uwe Winter, Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Bri
 
 * ## Next Steps
 
-* Perhaps ask Colin and Jawad to try to develop a picture of what this looks like, and ask AusBio for their input also. 
+* Perhaps ask Colin and Jawad to try to develop a picture of what this looks like, and ask AusBio for their input also.
 
 **Action items**
 
-- [ ] 
+- [ ]
 
 ## About the Gen3 Community CSOC working group
 
@@ -77,5 +77,5 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 ### Useful Links
 
-* Agendas and minutes can be found in the [Gen3 Community GitHub Repo CSOC Working Group folder](https://github.com/uc-cdis/gen3-community/tree/CSOC-WG-update-022025/CSOC_Working_Group_items).   
+* Agendas and minutes can be found in the [Gen3 Community GitHub Repo CSOC Working Group folder](CSOC_Working_Group_items).   
 * Slack channel: [\#gen3\_working\_group\_csoc\_ext](https://gen3friends.slack.com/archives/C082FLTBYMA) - email Gen3 support to request to be added to the channel ([support@gen3.org](mailto:support@gen3.org))

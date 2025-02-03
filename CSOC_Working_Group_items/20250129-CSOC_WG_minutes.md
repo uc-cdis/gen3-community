@@ -1,60 +1,71 @@
-# January 29, 2024 | [Gen3 CSOC Working Group Kickoff](https://www.google.com/calendar/event?eid=NnQ0Nml2bzdwZnY4Z2NhZWJlbjZyY2J0cG8gc212Z2FyY2lhQHVjaGljYWdvLmVkdQ)
+# Jan 29, 2025 | Gen3 CSOC Working Group
 
-Attendees: Amy Burns (IU), Uwe Winter (Aus BioCommons),  Alan Walsh (IU),  Peter Vassilatos (CTDS), Sara Volk de Garcia (CTDS), Clair Rye (NeSI),  Jawad Qureshi (CTDS),  Plamen Martinov (OCC) Michael Fitzsimons (CTDS), Ruslan Forostianov (SC4Bio), Colin Griffin (KrumWare), Clint Malson (CTDS), Kyle Ellrott (OHSU), Brian Furner (D4CG), Luca Graglia (D4CG), Guerdon Mukama (Aus BioCommons), Hunter Adams (KrumWare)
+Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Bob Grossman, Peter Vassilatos, Fay Booker;  
+Aus BioCommons: Uwe Winter, Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Brian Furner, Luca Graglia; OHSU: Kyle Ellrott; NeSI: Claire Rye; KrumWare: Colin Griffin
 
 ## Relevant meeting links   
 
-* Agenda: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md)  
-* Slides: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/20241209-CSOC_WG_slides.pdf](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/20241209-CSOC_WG_slides.pdf)
-* Recording of the mtg: [on YouTube](https://www.youtube.com/watch?v=Rd4qjhm3oKI)
+* Agenda: [https://github.com/uc-cdis/gen3-community/blob/master/CSOC\_Working\_Group\_items/README.md\#2025-january-2930](https://github.com/uc-cdis/gen3-community/blob/master/CSOC_Working_Group_items/README.md#2025-january-2930)   
+* Slides: [https://github.com/uc-cdis/gen3-community/blob/CSOC-WG-update-022025/CSOC_Working_Group_items/20250129-CSOC%20WG_slides.pdf](https://github.com/uc-cdis/gen3-community/blob/CSOC-WG-update-022025/CSOC_Working_Group_items/20250129-CSOC%20WG_slides.pdf)
+* Recording of the mtg: [on YouTube](https://youtu.be/Rd4qjhm3oKI?si=KsbFf7V5r2wy4s3p)
 
 ## Mtg Minutes
 
-* Introductions by all participants (give name, organization, and some details about your Gen3 installation if you have one)  
-  * **Indiana Univ:** Alan Walsh and Amy Burns \- ARDaC [https://portal.ardac.org/login](https://portal.ardac.org/login), developing Indiana Precision Oncology (IPO), [Center for Cannabis, Cannabinoids, and Addiction (C3A)](https://c3a.indiana.edu/), also helping Univ FL to bring up a Gen3 commons.   
-  *  **UChicago, Data for the Common Good** \- Brian Furner, Luca Graglia, Pediatric Cancer Data Commons, planning for deployment of extra Gen3 instances for other groups, so starting to think about best practices for CSOC, use the same framework as AnVIL and others  
-  * **NeSI (New Zealand eScience Infrastructure)** \- Claire Rye, they have 1 DC and maybe another prototype, they often work closely with Univ Auckland. Interested in best practices for expanding to multiple systems.   
-  * **KrumWare** \- Colin Griffin \- not a research group, but instead a SE and PE dev group that got into Gen3 to help a project at Wake Forest Univ  
-  * **Aus BioCommons** \- Guerdon Mukama and Uwe Winter. 2 Gen3: ACDC. operated for a collective of CVD researchers. Multiomic. OMIX3 \- multiomics platform. Maybe a 3rd coming. Recently made deployment code public, run on AWS. Working to be best positioned to run multiple commons  
-  * **Oregon H\&S Univ** \- Kyle Ellrott, Alliance for Cancer Early Detection. Public Facing (AWS) and internal facing (openstack). Managing multiple S3 envts  
-  * **Open Commons Consortium** \- Plamen Martinov \- Run 6 data commons with 2.5 petabytes of data. BloodPAC, Prometheus Data Platform, others. In AWS, working on bringing to GCP and Azure  
-  * **SC4Bio** \- Ruslan Forostianov. SE who build software, from Europe. There’s interest there to use Gen3, so they’re looking to gather info about it.   
-  * **CTDS folks:** Michael Fitzsimons Dir of Research Programs, Jawad Qureshi, Lead Platform Engineer; Sara Volk de Garcia \- User Services; Clint Malson, Director of Security/CISO;  Peter Vassilatos, Director of Engineering   
+* ## Presentation by Australian BioCommons (Guerdon) on deployment
 
-* Mission of group  
-  * How can we make it simpler for users to spin up 1 or more Gen3 instances  
-  * CSOC also sets up req’s infrastructure for people who want to use Gen3 but don’t have the background for quickly deploying all the infrastructure  
-  * Also \- setting up multiple data commons or meshes  
+  * Infrastructure as Code (IaC) \- allows IF to be defined, versioned and deployed as code to ensure consistency. Terraform is an example of this  
+  * IaC solves problems relating to deploying in multiple envts, and manages dependencies (network, databases). Allows traceable IF changes through GitOps  
+  * Multi-account strategy. Enables least-priv IAM policies, isolates workloads, prevent resource contention btwn envts  
+  * Gitops ensures auditable, trackable deployment  
+  * IaC with AWS CDK \- leverage AWS EKS blueprints, handles complex resources (custom code)  
+  * Deployment order:  
+    * Network pipeline \-\> VPC, private, public, isolated subnets, NAT gateways, WAF  
+    * Database pipeline → RDS, Opensearch(elasticsearch)  
+    * Creds pipeline → DB cred in secrets mgr  
+    * EKS pipeline → EKS cluster, IAM roles (also brings in Gen3 charts)  
+    * Resources pipeline → SQS queues, SNS, S3 buckets  
+    * squid/proxy pipeline → self healing properties  
+  * Deployment flow: deploye change to GH, then through AWS CodePipelines, then proceeds through envts to prod   
+  * Quick start deployment: EKS cluster. Need VPC with private and public subnets (esp for Prod), Database Service, Creds in AWS secrets mgr  
+    * Understand Gen3 Helm Charts  
+    * Fork the pipeline repos (links at end of prez)  
+    * Set up cred in AWS secrets mgr, configure  
+    * Deploy\!  
+  * Compare to cloud-automation  
+    * No need for mgmt vm  
+    * Integrate CI/CD to reduce errors  
+    * Simpler
+ 
+ (Slide 14 in slide deck is a great summary of comparison of Gen3 Deployment with AWS CDK Pipelines to Cloud Automation)
 
-* Purpose: centralized management platform to host the backend of Gen3 to empower orgs to use all of gen3’s potential but securely and efficiently .   
-  * Tie into different open source tools  
-  * Do this collaboratively, with the community who face actual real-life problems  
-  * We have a POC that could resemble this. Core platform under dev with:  
-    * Fully featured K8s dashboard, so vis without having to use k8s tools  
-    * Our ultimate goal with Gen 3 as things have evolved for us over the years is to help operationalize and enable researchers and the institutions to do more with their cloud environments. And follow best practices and standards to secure and develop those cloud environments where an application like Gen 3 may be deployed and the rest of the lifecycle and everything else that needs to go along with that.  
-    * Helm  
-    * Working on “deployment wizard”   
-    * Building in authn/z to integrate with diff providers (eg keycloak)  
-    * Monitoring and observability: used to be DataDog, now building on open source components like Grafana  
-    * Setting up cloud integration \- provisioning and mgmt of all the infra in the cloud. Open to hearing other’s experiences to inform our dev  
-    * Ability to share cloud spending across AWS accounts  
-    * Other features: role based access control (RBAC), securing the backend (right now, IP restriction, but open eyed to new ideas)   
-    * Try to provide CSOC as part of SaaS and PaaS – with the goal of empowering project teams from individual CSOCs (set up a capability so anyone can run their own CSOC, cloud-agnostically)  
-    * Jawad Demo: Feedback:   
-      * Plamen: re: cloud-automation  
-      * Plamen: what’s on top of all the (many) grafana logs that provides intuitive info for further analysis \- any analytical tools doing the interpretation and prioritization? Answer: we are leveraging grafanas’s dashboard abilities to present the info in a sensible, digestible way. And to follow up as a question for this group: is this direction helpful for the group? Or will your indiv security orgs require you to do things independently  
+* Takeaways: Reproducible. Able to control versions. Easier to maintain.   
+  * Self-healing for squid – they expect to make that opensource, so he can share it  
+  * CDK will do cloud formation in the background, can also run outside pipelines (even GH actions). CodePipeline is nice because you can connect the envts together and easily promote changes through envts  
+  * They have just one repo with envts separated by directory.   
+  * CDK can run in a container, then provision the whole pipeline. but, you would probably lose the visibility because you aren’t using a pipeline.   
+  * Colin is on GC, Azure, on prem, and … . They follow a 2 stage bootstrapping process for flexibility. But, modules are different depending on what envt they go into. Looking to donate terraform models for different modules. Reworking terraform for AWS to allow bootstrapping.   
+  * “expected/estimated AWS costs for the environment”: I will get back to you with exact figures, but varies from account to account. The tools account cost is minimal. Others are in the range of $800 \- $2000  
+  * We should communicate with each other in the community about what we’re doing to try to prevent duplicating efforts  
+  * Note from Colin: recommends External Secrets Operator and Cluster API
 
-* Discuss how to work together on a CSOC dashboard and other goals  
-* Open discussion
+* ## Update from CTDS on CSOC deployment
 
-**Next steps:**  
-Michael will send out invite for the regular monthly meeting time.   
-Uwe will present on their solution Gen3 deployment and infrastructure management
+  * What are we trying to build:  
+  * CSOC dashboard  
+  * Any infrastructure prov would be part of this portal  
+  * Create endpoint lets you create IAM role in your acct which allows the CSOC to assume this role, so now you have access to do stuff in the AWS (or whatever cloud). This will ultimately allow you to create a new cluster based on bootstrapping, then can deploy gen3 with a wizard.   
+  * Need a way to do “inventory mgmt” (eg S3 buckets, etc). Looking to build that into portal  
+  * Consider looking into AWS marketplace  
+  * Colin and OCC have stuff on Marketplace  
+  * Institutionas/orgs are seeing the need to adopt cloud-native K8s. we are encouraging them to look at it as both managing commons AND more generally how to manage your compute. To that end \- try to make sure the tools needed to manage a commons doesn’t conflict with what they need to do other stuff
+
+* ## Next Steps
+
+* Perhaps ask Colin and Jawad to try to develop a picture of what this looks like, and ask AusBio for their input also. 
 
 **Action items**
 
-- [ ] Everyone: Watch for email to schedule regular working group meetings  
-- [ ] Michael \- send out poll for monthly meeting slot
+- [ ] 
 
 ## About the Gen3 Community CSOC working group
 
@@ -66,5 +77,5 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 ### Useful Links
 
-* Agendas and minutes can be found in the [Gen3 Community GitHub Repo](https://github.com/uc-cdis/gen3-community/blob/master/Working%20Groups.md).   
+* Agendas and minutes can be found in the [Gen3 Community GitHub Repo CSOC Working Group folder](https://github.com/uc-cdis/gen3-community/tree/CSOC-WG-update-022025/CSOC_Working_Group_items).   
 * Slack channel: [\#gen3\_working\_group\_csoc\_ext](https://gen3friends.slack.com/archives/C082FLTBYMA) - email Gen3 support to request to be added to the channel ([support@gen3.org](mailto:support@gen3.org))

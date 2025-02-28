@@ -20,7 +20,7 @@ February 26, 3-3:30pm CT (February 27, 8am AEDT) - [zoom link](https://uchicago.
 
 ### Relevant meeting links   
 
-* [Minutes]( )  
+* [Minutes](20250226-CSOC_WG_minutes.md)  
 * [Slides](20250226-CSOC_WG_slides.pdf)
 * [Recording of the mtg (YouTube)](https://youtu.be/q7geH6Cfz8s)
 

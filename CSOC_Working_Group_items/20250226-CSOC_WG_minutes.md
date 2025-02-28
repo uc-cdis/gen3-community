@@ -31,7 +31,6 @@ Aus BioCommons: Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Brian Furner, L
     * How can we design the CSOC portal to make sure that different orgs can work on it at the same time?
   * IaC as a Plugin
     * containerized plugin system to manage infrastructure deployments
-    * 
     * May have a different support model – would need to coordinate with contributors
     * Future support for Azure, Google Cloud, Digital Ocean, and other cloud providers
   * System Architecture: see slide 7
@@ -47,11 +46,11 @@ Aus BioCommons: Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Brian Furner, L
 
 * ## Next Steps
 
-* 
+*
 
 **Action items**
 
-- [ ]
+- Michael will work with Jawad on listing out features that need community participation.  This may be in the form of GitHub issues or something else.  Will try to share before the next meeting.
 
 ## About the Gen3 Community CSOC working group
 

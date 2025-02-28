@@ -18,7 +18,11 @@ February 26, 3-3:30pm CT (February 27, 8am AEDT) - [zoom link](https://uchicago.
 * Update from Australian BioCommons on open-sourcing deployment repos
 * Open Discussion
 
+### Relevant meeting links   
 
+* [Minutes](20250226-CSOC_WG_minutes.md)  
+* [Slides](20250226-CSOC_WG_slides.pdf)
+* [Recording of the mtg (YouTube)](https://youtu.be/q7geH6Cfz8s)
 
 
 ### `2025-January-29/30`

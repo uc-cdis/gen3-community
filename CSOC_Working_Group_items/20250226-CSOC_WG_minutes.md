@@ -46,8 +46,6 @@ Aus BioCommons: Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Brian Furner, L
 
 * ## Next Steps
 
-*
-
 **Action items**
 
 - Michael will work with Jawad on listing out features that need community participation.  This may be in the form of GitHub issues or something else.  Will try to share before the next meeting.

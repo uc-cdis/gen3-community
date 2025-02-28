@@ -7,7 +7,7 @@ Aus BioCommons: Guerdon Mukama; IU: Alan Walsh, Amy Burns; D4CG: Brian Furner, L
 
 * [Agenda](README.md#2025-february-2627)   
 * [Slides](20250226-CSOC_WG_slides.pdf)
-* [Recording of the mtg (YouTube)](https://youtu.be/dh7FWSqx-1w)
+* [Recording of the mtg (YouTube)](https://youtu.be/q7geH6Cfz8s)
 
 ## Mtg Minutes
 

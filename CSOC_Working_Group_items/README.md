@@ -32,8 +32,8 @@ April 30, 3-4pm CT (May 1, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/91
 
 ### Relevant meeting links   
 
-* [Minutes] *coming soon*  
-* [Recording of the mtg (YouTube)] *coming soon*
+* [Minutes](20250430-CSOC_WG_minutes.md)  
+* [Recording of the mtg (YouTube)](https://youtu.be/BqlWFnzCfJ4?si=a3bh5KEqHIZM7Dtf&t=16)
 
 ### `2025-March-26`
 March 26, 3-3:30pm CT (March 27, 8am AEDT) - [UPDATED zoom link just for March](https://uchicago.zoom.us/j/8652124937?pwd=akNVcWRGV1V2UHZodEU4NkNyM3Jjdz09)

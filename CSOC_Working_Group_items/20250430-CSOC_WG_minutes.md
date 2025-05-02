@@ -11,14 +11,14 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter V
 
 ### Brief updates from other CSOC groups   
   * Guerdon/AusBio \- progressing well with CDK work, code shared with Jawad and it was used in his dashboard  
-  * Luca/G4CG \- new team member, Bektemir  
-  * Alan/IU \- has a grad student looking at Kro for a future deployment model. Also testing deployment from scratch using our docs  
+  * Luca/D4CG \- new team member, Bektemir  
+  * Alan/IU \- has a grad student looking at [Kro](https://kro.run/) for a future deployment model. Also testing deployment from scratch using our docs  
   * Colin/Krumware \- leveraging Rancher and IaC and non K8S resources, and multi-account management, good progress for standardized stack for data commons deployment  
   * Bob/CTDS \- promoted the Accelerating Research Using Data Meshes and Data Fabrics (ARDM-25) Workshop [https://ctds.uchicago.edu/ardm25-workshop](https://ctds.uchicago.edu/ardm25-workshop)   
-  * Request for sharing info about where people are presenting, to increase discussion about Gen3 at the events  
+  * Colin \- Request for sharing info about where people are presenting, to increase discussion about Gen3 at the events  
 
 ### Updates from CTDS on CSOC development
-  * CTDS is moving towards adminvm for all our deployments  
+  * CTDS is moving away from adminvm for all our deployments  
   * First alpha release of CSOC portal coming very soon  
   * No further integrations for CDK since last mtg, but can present current status  
   * Integration of squid proxies \- can swap them, get in them, change the rules (squid is the egress proxy, uses whitelisted domains)  
@@ -36,7 +36,7 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter V
   * From Colin: really like Percona Everest for CRD-based and self-hosted databases \-   
   * Cloudnative PG is what Jawad has been using  
   * Have not gotten to build in the ability to deploy custom services through the wizard  
-  * Guerdon: status on monitoring and obs? \- there is some integration with grafana and loki. Can get access logs, there are some grafana dashboards that we can use to monitor, too. .   
+  * Guerdon: status on monitoring and obs? \- there is some integration with grafana and loki. Can get access logs, there are some grafana dashboards that we can use to monitor, too.   
   * Can you integrate the monitoring/obs tools with a status page? Yes, possibly. Guerdon shared the link to their status page (page service by atlassian) [https://biocloud3.statuspage.io/](https://biocloud3.statuspage.io/)   
   * As people develop other integrations with Gen3, we would love to feature them on our blog \- [https://docs.gen3.org/blog/](https://docs.gen3.org/blog/)   
 
@@ -50,7 +50,7 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter V
 
 **Action items**
 
-- 
+-
 
 ## About the Gen3 Community CSOC working group
 

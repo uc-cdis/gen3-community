@@ -8,8 +8,22 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
-### `2025-April-29/30`
-April 29, 3-4pm CT (April 30, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
+### `2025-May-28`
+May 28, 3-4pm CT (April 30, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
+
+**Agenda**
+
+* Updates from all members
+* Tentative - Update from Krumware and OCC
+
+### Relevant meeting links   
+
+* [Minutes] *coming soon*  
+* [Recording of the mtg (YouTube)] *coming soon*
+
+
+### `2025-April-30`
+April 30, 3-4pm CT (May 1, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
 
 **Agenda**
 
@@ -21,7 +35,7 @@ April 29, 3-4pm CT (April 30, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j
 * [Minutes] *coming soon*  
 * [Recording of the mtg (YouTube)] *coming soon*
 
-### `2025-March-26/27`
+### `2025-March-26`
 March 26, 3-3:30pm CT (March 27, 8am AEDT) - [UPDATED zoom link just for March](https://uchicago.zoom.us/j/8652124937?pwd=akNVcWRGV1V2UHZodEU4NkNyM3Jjdz09)
 
 **Agenda**
@@ -34,7 +48,7 @@ March 26, 3-3:30pm CT (March 27, 8am AEDT) - [UPDATED zoom link just for March](
 * [Minutes](20250326-CSOC_WG_minutes.md)  
 * [Recording of the mtg (YouTube)](https://youtu.be/8A1S5MS-5cQ)
 
-### `2025-February-26/27`
+### `2025-February-26`
 February 26, 3-3:30pm CT (February 27, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
 
 **Agenda**
@@ -51,7 +65,7 @@ February 26, 3-3:30pm CT (February 27, 8am AEDT) - [zoom link](https://uchicago.
 * [Recording of the mtg (YouTube)](https://youtu.be/q7geH6Cfz8s)
 
 
-### `2025-January-29/30`
+### `2025-January-29`
 
 January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
 
@@ -68,7 +82,7 @@ January 29, 3-4pm CT (January 30, 8am AEDT) - [zoom link](https://uchicago.zoom.
 * [Recording of the mtg (YouTube)](https://youtu.be/yF-T97MggUQ)
 
 
-### `2024-Dec-9/10` **Kickoff Meeting: Dec 9/10, 2024**
+### `2024-Dec-9` **Kickoff Meeting: Dec 9/10, 2024**
 
 December 9, 2-3pm CT (December 10, 7-8am AEDT) - [zoom link](https://uchicago.zoom.us/j/92866299142?pwd=XfddZb7PAK9eMaX9gX3qSBpljJ5jYL.1)
 

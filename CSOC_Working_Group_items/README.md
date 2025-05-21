@@ -8,8 +8,8 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
-### `2025-May-28`
-May 28, 3-4pm CT (April 30, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
+### `2025-June-25`
+June 25, 3-4pm CT (June 26, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/91296910656?pwd=b360AiWOaty5nvLI5Kbp12cua6e8Pw.1)
 
 **Agenda**
 

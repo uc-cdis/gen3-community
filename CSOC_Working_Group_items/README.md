@@ -14,7 +14,7 @@ June 25, 3-4pm CT (June 26, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/9
 **Agenda**
 
 * Updates from all members
-* Tentative - Update from Krumware and OCC
+* Cloud Automation -> Helm Migration Process (CTDS)
 
 ### Relevant meeting links   
 

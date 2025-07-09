@@ -5,7 +5,7 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Clint M
 ## Relevant meeting links   
 
 * [Agenda](README.md#2025-june-25)  
-* [Recording of the mtg (YouTube)]()
+* [Recording of the mtg (YouTube)](https://www.youtube.com/watch?v=bZiHxu7ZdnU)
 
 ## Mtg Minutes
 

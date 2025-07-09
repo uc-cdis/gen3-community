@@ -18,8 +18,8 @@ June 25, 3-4pm CT (June 26, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/9
 
 ### Relevant meeting links   
 
-* [Minutes] *coming soon*  
-* [Recording of the mtg (YouTube)] *coming soon*
+* [Minutes](20250625-CSOC_WG_minutes.md)  
+* [Recording of the mtg (YouTube)](https://www.youtube.com/watch?v=bZiHxu7ZdnU)
 
 
 ### `2025-April-30`

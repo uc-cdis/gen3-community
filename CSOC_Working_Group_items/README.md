@@ -35,7 +35,7 @@ July 30, 3-4pm CT (July 31, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/9
 
 ### Relevant meeting links   
 
-* [Minutes - Coming Soon](20250730-CSOC_WG_minutes.md)
+* [Minutes](20250730-CSOC_WG_minutes.md)
 * [Recording of the mtg (YouTube)](https://youtu.be/FrzsUzQeNoQ)
 
 

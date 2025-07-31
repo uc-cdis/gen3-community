@@ -27,14 +27,14 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter V
 * Requestor allows granting and revoking access to resources and policies.  It is scalable, auditable, may be integrated into third party tools (e.g. zendesk), and allows you to manage complex policy combinations
 * Flexible - if you can come up with a policy, you can use requestor to grant access
 * Conrad - what does this look like in the UI?
-* Sara gave example of how they use Zendesk to manage it
+  * Sara gave example of how they use Zendesk to manage it
 
 
 
 ### REMS presentation by Conrad Leonard (Australian BioCommons)
 
 * Conrad gave a presentation on how they use REMS to manage access to their Gen3 system.  This is a system that they use for non-Gen3 systems and so wanted to use it for Gen3 as well.  This is why they did not use Requestor.
-* Discussed in detail about the different handoff between Gen3 and their system
+* Discussed in detail the implementation and the different handoffs between different services
 * They will go back to review requestor and see how much additional integration they can do there.  
 
 
@@ -46,26 +46,6 @@ Attendees: CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter V
 * Jimi presented on how this is set up for them
 * Call for collaboration for anyone interested
   * Jawad volunteered to collaborate
-
-Kro as a way to do a deployment - put into Gen3 admin -
-
-Jimi -
-resource graph definition is like a CRD of Kro, Kro abstracts deployments
-
-creates AWS resources on Kubernetes
-**is like terraform or helm?**
-
-I want to create 10 VPCs all with different names
-
-Can replace helm, can replace manifests in general
-
-Can deploy application and infrastructure using Kro.
-
-if anyone is interested - Kro repo -
-
-Jawad will be int
-
-
 
 
 

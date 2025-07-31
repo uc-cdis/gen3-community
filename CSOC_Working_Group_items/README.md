@@ -8,6 +8,21 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
+### `2025-Aug-27`
+August 27, 3-4pm CT (August 28, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
+
+**Agenda**
+
+* TBD
+
+### Relevant meeting links   
+
+* Minutes - Coming Soon  
+* Recording of the mtg (YouTube) - Coming Soon
+
+
+
+
 ### `2025-July-30`
 July 30, 3-4pm CT (July 31, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
@@ -16,11 +31,12 @@ July 30, 3-4pm CT (July 31, 6am AEST) - [zoom link](https://uchicago.zoom.us/j/9
 * Updates from all members
 * How to use [Requestor](https://github.com/uc-cdis/requestor) to manage data access requests in Gen3 commons - Sara Volk de Garcia, CTDS, University of Chicago
 * Use of [Resource Entitlement Management System (REMS)](https://github.com/CSCfi/rems) to handle access requests for datasets hosted in Gen3 commons - Conrad Leonard, Australian BioCommons
+* Kro presentation by Indiana University
 
 ### Relevant meeting links   
 
-* Minutes - Coming Soon  
-* Recording of the mtg (YouTube) - Comming Soon
+* [Minutes](20250730-CSOC_WG_minutes.md)
+* [Recording of the mtg (YouTube)](https://youtu.be/FrzsUzQeNoQ)
 
 
 

@@ -13,7 +13,15 @@ August 27, 3-4pm CT (August 28, 6am AEST) - [zoom link](https://uchicago.zoom.us
 
 **Agenda**
 
-* TBD
+* Jawad Qureshi and Abhijith MS, CTDS, University of Chicago, will give an update on the CSOC portal
+  * KeyCloak - Authentication and Authorization. How to set up read-only roles, and admin roles.
+  * Database integrations
+    * Web view of the postgres databases! Now using the csoc portal you can see and query the databases.
+    * Interface to query Elasticsearch
+  * New environment overview dashboard
+    * Get the health of your environment at a glance.
+  * First helm release with keycloak, csoc, and grafana - so people can start bootstrapping CSOC.
+
 
 ### Relevant meeting links   
 

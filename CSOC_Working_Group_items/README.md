@@ -13,9 +13,9 @@ September 24, 3-4pm CT (September 25, 6am AEST) - [zoom link](https://uchicago.z
 
 **Agenda**
 
-* Gen3 Observability - Carven Chen, University of Aukland
 * Brief update on OCC CSOC - Stephen Dranger, OCC
-
+* Gen3 Observability Overview - Jawad Qureshi, CTDS
+* Gen3 Observability - Carven Chen, University of Auckland
 
 ### Relevant meeting links   
 

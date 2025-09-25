@@ -19,8 +19,8 @@ September 24, 3-4pm CT (September 25, 6am AEST) - [zoom link](https://uchicago.z
 
 ### Relevant meeting links   
 
-* Minutes - Coming Soon  
-* Recording of the mtg (YouTube) - Coming Soon
+* [Minutes](20250924-CSOC_WG_minutes.md)
+* [Recording of the mtg (YouTube)](https://youtu.be/SD-OdsUkaDQ)
 
 
 

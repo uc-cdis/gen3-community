@@ -1,18 +1,23 @@
 # Sep 24, 2025 | Gen3 CSOC Working Group
 
 **Attendees:**  
-CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter Vassilatos, Bob Grossman;  
-Aus BioCommons: Nagasri Alava;   
-Univ Auckland, NZ (formerly NeSI): Matt Pestle, Claire Rye, Carvin Chen;  
-IU: Alan Walsh;   
-D4CG: Bektemir Ashirmatov;   
-OHSU: Kyle Ellrott;   
-OCC: Stephen Dranger, Danne Elbers, Mikisha Patel.  
+* CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Peter Vassilatos, Bob Grossman;  
+* Aus BioCommons: Nagasri Alava;   
+* Univ Auckland, NZ (formerly NeSI): Matt Pestle, Claire Rye, Carvin Chen;  
+* IU: Alan Walsh;   
+* D4CG: Bektemir Ashirmatov;   
+* OHSU: Kyle Ellrott;   
+* OCC: Stephen Dranger, Danne Elbers, Mikisha Patel.  
 
 ## Relevant meeting links   
 
-* [Agenda](README.md#2025-Sep-24)  
 * [Recording of the mtg (YouTube)](https://youtu.be/SD-OdsUkaDQ)
+
+## Agenda
+
+* Brief update on OCC CSOC - Stephen Dranger, OCC
+* Gen3 Observability Overview - Jawad Qureshi, CTDS
+* Gen3 Observability - Carven Chen, University of Auckland
 
 ## Mtg Minutes
 
@@ -64,7 +69,7 @@ OCC: Stephen Dranger, Danne Elbers, Mikisha Patel.
 
 ### Topics for next mtg  
 
-Discussion to be continued
+* Likely to focus on larger presentation by Stephen on OCC CSOC
 
 ## Next Steps
 

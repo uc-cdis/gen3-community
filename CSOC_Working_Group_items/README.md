@@ -10,7 +10,7 @@ These meetings are open to anyone in the Gen3 community. They typically occur on
 
 
 ### `2025-Sep-24`
-October 29, 3-4pm CT (October 29, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
+October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
 **Agenda**
 

@@ -16,6 +16,15 @@ October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.
 
 * Brief Team Updates
 * Update on OCC/Krumware CSOC - Stephen Dranger, OCC
+* Quick update on Infrastructure as Code Dashboard - CTDS
+
+
+
+
+
+
+
+
 
 
 

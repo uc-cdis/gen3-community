@@ -9,7 +9,7 @@ Projects completed by the working group will be merged into the Gen3 source code
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
 
-### `2025-Sep-24`
+### `2025-Oct-29`
 October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
 **Agenda**
@@ -18,7 +18,10 @@ October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.
 * Update on OCC/Krumware CSOC - Stephen Dranger, OCC
 * Quick update on Infrastructure as Code Dashboard - CTDS
 
+### Relevant meeting links   
 
+* [Recording of the mtg (YouTube)](https://youtu.be/jPd-QTjeWAQ)
+* [Slides](20251029-CSOC_WG_slides.pdf)
 
 
 

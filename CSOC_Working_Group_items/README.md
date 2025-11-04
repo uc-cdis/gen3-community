@@ -20,6 +20,7 @@ October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.
 
 ### Relevant meeting links   
 
+* [Minutes](20251029-CSOC_WG_minutes.md)
 * [Recording of the mtg (YouTube)](https://youtu.be/jPd-QTjeWAQ)
 * [Slides](20251029-CSOC_WG_slides.pdf)
 

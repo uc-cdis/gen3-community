@@ -3,10 +3,9 @@
 **Attendees:**  
 * CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Elise, Ed;  
 * Aus BioCommons: Nagasri Alava, Guerdon Mukama;   
-* Univ Auckland, NZ (formerly NeSI): Matt Pestle, Claire Rye, Carvin Chen;  
+* Univ Auckland, NZ (formerly NeSI): Claire Rye, Carvin Chen;  
 * IU: Alan Walsh, Jimmy;   
 * D4CG: Bektemir Ashirmatov, Luca;   
-* OHSU: Kyle Ellrott;   
 * OCC: Stephen Dranger, Danne Elbers  
 
 ## Relevant meeting links   
@@ -74,7 +73,7 @@ Covers similar ground as Gen3 terraform. Difference is that one repo you have ca
 
 **Action items**
 
-- [ ] ####  Michael to send out a doodle poll to reschedule November and December meetings
+- [ ] Michael to send out a doodle poll to reschedule November and December meetings
 
 ## About the Gen3 Community CSOC working group
 

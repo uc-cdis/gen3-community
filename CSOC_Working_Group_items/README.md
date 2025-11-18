@@ -9,6 +9,20 @@ Projects completed by the working group will be merged into the Gen3 source code
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
 
+
+
+### `2025-Dec-03`
+December 3, 4-5pm CT (December 4, 9am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
+
+**Agenda**
+
+* Brief Team Updates
+* Update on Kro - Jimmy and Alan - Indiana University
+* Boostrapping the Gen3 CSOC - Jawad - CTDS
+
+
+
+
 ### `2025-Oct-29`
 October 29, 3-4pm CT (October 30, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 

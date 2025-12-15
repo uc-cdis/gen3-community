@@ -1,4 +1,4 @@
-# October 29, 2025 | Gen3 CSOC Working Group
+# December 3, 2025 | Gen3 CSOC Working Group
 
 **Attendees:**  
 * CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Elise, Bob;  
@@ -12,8 +12,7 @@
 
 ## Relevant meeting links   
 
-* [Recording of the mtg (YouTube)](https://youtu.be/jPd-QTjeWAQ)
-* [Slides](20251029-CSOC_WG_slides.pdf)
+* [Recording of the mtg (YouTube)](https://youtu.be/FREBARkkuis)
 
 ## Agenda
 
@@ -40,7 +39,7 @@
 ### Update on Kro - Jimmy and Alan - Indiana University
 
 * K8s SIG projects (AWS & Google) Amazon is now offering kro as an eks integration/addon, along with Argo CD (https://docs.aws.amazon.com/eks/latest/userguide/kro.html)
-* Simplify deployment and mgmt of apps and resources by grouping them 
+* Simplify deployment and mgmt of apps and resources by grouping them
 * Common Expression Language
 * Depends on existing controllers for infra mgmt
 * NOT available til 2026

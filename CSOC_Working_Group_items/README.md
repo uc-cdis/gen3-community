@@ -20,6 +20,10 @@ December 3, 4-5pm CT (December 4, 9am AEDT) - [zoom link](https://uchicago.zoom.
 * Update on Kro - Jimmy and Alan - Indiana University
 * Boostrapping the Gen3 CSOC - Jawad - CTDS
 
+### Relevant meeting links   
+
+* [Minutes](20251203-CSOC_WG_minutes.md)
+* [Recording of the mtg (YouTube)](https://youtu.be/FREBARkkuis)
 
 
 

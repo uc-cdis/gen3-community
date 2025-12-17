@@ -10,6 +10,16 @@ These meetings are open to anyone in the Gen3 community. They typically occur on
 
 
 
+### `2026-Feb-25`
+February 25, 3-4pm CT (February 26, 8am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
+
+**Agenda**
+
+* Brief Team Updates
+* Cost savings approaches to running Gen3 systems (speakers TBD)
+
+
+
 
 ### `2025-Dec-03`
 December 3, 4-5pm CT (December 4, 9am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)

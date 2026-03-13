@@ -12,9 +12,11 @@ These meetings are open to anyone in the Gen3 community. They typically occur on
 ### `2025-Mar-25`
 March 25, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
-Agenda coming soon
+**Agenda**
 
-(Note: Jan and Feb CSOC working group meetings have been canceled due to conflicts.)
+* How to reduce EC2 costs in EKS using cilium
+* How to reduce portal costs and build times
+* Karpenter configurations
 
 ### `2025-Dec-03`
 December 3, 4-5pm CT (December 4, 9am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)

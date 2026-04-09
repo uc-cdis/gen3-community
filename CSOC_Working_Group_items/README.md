@@ -8,8 +8,15 @@ Projects completed by the working group will be merged into the Gen3 source code
 
 These meetings are open to anyone in the Gen3 community. They typically occur on the last Wednesday of the month at 3-4pm CT.  Contact [support@gen3.org](mailto:support@gen3.org) for an invite to the slack channel and monthly zoom meeting, or just join the meeting!
 
+### `2026-Apr-29`
+April 29, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
-### `2025-Mar-25`
+**Agenda**
+
+* CSOC Dashboard Setup Walkthrough — Hands-on session. Come prepared to set up a Kubernetes cluster from scratch and deploy Gen3. Have your terminal ready and ensure you can access a cloud environment or local setup where you can provision resources.
+
+
+### `2026-Mar-25`
 March 25, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)
 
 **Agenda**
@@ -17,6 +24,14 @@ March 25, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j
 * How to reduce EC2 costs in EKS using cilium
 * How to reduce portal costs and build times
 * Karpenter configurations
+
+### Relevant meeting links   
+
+* [Minutes](20260325-CSOC_WG_minutes.md)
+* [Recording of the mtg (YouTube)](https://youtu.be/S-OwfpRb1lM)
+* [Slides](20260325-CSOC_WG_slides.pdf)
+
+
 
 ### `2025-Dec-03`
 December 3, 4-5pm CT (December 4, 9am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)

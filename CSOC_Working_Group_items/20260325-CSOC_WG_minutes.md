@@ -1,4 +1,4 @@
-# October 29, 2025 | Gen3 CSOC Working Group
+# March 25, 2026 | Gen3 CSOC Working Group
 
 **Attendees:**  
 * CTDS: Michael Fitzsimons, Sara Volk de Garcia, Jawad Qureshi, Elise, Ed, Ajo, Sai, Bob;  

@@ -9,7 +9,7 @@
 
 ## Relevant meeting links   
 
-* [Recording of the mtg (YouTube)](https://youtu.be/1_ygikuNerI))
+* [Recording of the mtg (YouTube)](https://youtu.be/1_ygikuNerI)
 
 ## Agenda
 

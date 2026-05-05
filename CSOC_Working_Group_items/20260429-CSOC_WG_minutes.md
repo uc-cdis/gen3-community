@@ -45,7 +45,7 @@
 
 
 ## Next Steps
-* Possibility of next meeting to demo on the clout rather than laptop
+* Possibility of next meeting to demo on the cloud rather than laptop
 
 
 

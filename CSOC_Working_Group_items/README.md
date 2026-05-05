@@ -15,6 +15,10 @@ April 29, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j
 
 * CSOC Dashboard Setup Walkthrough — Hands-on session. Come prepared to set up a Kubernetes cluster from scratch and deploy Gen3. Have your terminal ready and ensure you can access a cloud environment or local setup where you can provision resources.
 
+* [Minutes](20260429-CSOC_WG_minutes.md)
+* [Recording of the mtg (YouTube)](https://youtu.be/1_ygikuNerI)
+
+
 
 ### `2026-Mar-25`
 March 25, 3-4pm CT (March 26, 7am AEDT) - [zoom link](https://uchicago.zoom.us/j/94195457500?pwd=QVy03nhXQ248IJKuHMwEiQGLhHblW3.1)

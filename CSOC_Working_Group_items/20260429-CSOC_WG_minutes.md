@@ -21,7 +21,7 @@
 
 * Alan/IU - nothing urgent
 * Bektemir & Luca/D4CG - nothing urgent
-* Claire & Matt & Carven/Univ Auck: scanning Gen3 for vulnerabilities, found some critical CVEs, compliance report , Carvin will send for us to help review
+* Matt & Carven/Univ Auck: scanning Gen3 for vulnerabilities, found some critical CVEs, compliance report , Carvin will send for us to help review
 * Nagasri & Guerdon/AusBio:  launched a new Gen3 biological psychiatry environment
 * Stephan/OCC - Stephen - focusing on other topics right now.  Australian sent them the REMS code to review
 
